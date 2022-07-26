@@ -7,7 +7,7 @@ Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `req
 ## Installation
 1. Clone this repository
   ```
-  $ git clone http://141.252.12.43/adions025/maskrcnn.git
+  $ git clone https://github.com/cherryycodes/Damage_Detection_MaskRCNN
    ```
 2. Install dependencies
  ```
